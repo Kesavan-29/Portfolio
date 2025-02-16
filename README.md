@@ -19,19 +19,14 @@ Hello! I'm Kesavan, a passionate developer with a love for creating amazing web 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## Projects
+## Project
 
-### Project 1: Portfolio Website
+### Portfolio Website
 - Description: A personal portfolio website to showcase my projects and skills.
 - Technologies: HTML, CSS, JavaScript
 - [![Live Demo](https://img.shields.io/badge/-Live%20Demo-000000?style=for-the-badge&logo=github-pages&logoColor=white)](https://kesavan-29.github.io/portfolio)
 - [![GitHub Repo](https://img.shields.io/badge/-GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kesavan-29/portfolio)
 
-### Project 2: Todo App
-- Description: A simple and intuitive todo application to manage daily tasks.
-- Technologies: HTML, CSS, JavaScript
-- [![Live Demo](https://img.shields.io/badge/-Live%20Demo-000000?style=for-the-badge&logo=github-pages&logoColor=white)](https://kesavan-29.github.io/todo-app)
-- [![GitHub Repo](https://img.shields.io/badge/-GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kesavan-29/todo-app)
 
 ## Contact
 
